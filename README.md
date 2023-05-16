@@ -8,4 +8,7 @@
 
 ## How To Use: Simply click on the links in the navigation bar to find out more about me, see projects that I have completed (or will complete in the future), or get into contact with me. Click on the title cards to be taken to the deployed application.
 
+![image](https://github.com/jaxson-lybbert/Jaxson-Lybbert-Portfolio/assets/132233010/c025ae14-770f-42c7-812b-4a9e6886418f)
+
+
 ### All code is original, save the reset.css file which was copied from the edX fullstack coding bootcamp. No license is associated with this application.
